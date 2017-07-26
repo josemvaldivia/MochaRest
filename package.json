@@ -1,0 +1,17 @@
+{
+  "name": "mocha_test_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/server.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mocha": "^3.4.2",
+    "path": "^0.12.7"
+  }
+}
